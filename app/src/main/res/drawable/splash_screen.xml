@@ -1,0 +1,4 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="?android:attr/colorBackground" android:height="2960dp" android:width="1440dp"/>
+    <item android:drawable="@mipmap/ic_launcher_round" android:gravity="center" android:bottom="60dp" android:height="68dp" android:width="68dp"/>
+</layer-list>
